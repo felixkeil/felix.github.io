@@ -1,0 +1,74 @@
+body{
+  margin: 0px;
+}
+#header {
+  background: url("download (1).png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#menu {
+}
+.logo {
+  height: 250px;
+  padding-left: 50%;
+  padding-right: 50%;
+}
+.logo2 {
+height: 400px;
+padding-left: 20%;
+padding-right: 80%;
+}
+#content {
+  background: url("corona beach.jfif") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+
+}
+#contentOB {
+  background: url("beer gif.gif") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+
+}
+#footer {
+  background-color: white;
+  height: 75px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: dimgray;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
